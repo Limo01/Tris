@@ -1,0 +1,36 @@
+div 
+{
+    margin: auto;
+    padding: 70px;
+}
+
+body
+{
+    background-image: url("sfondo.jpg");
+    cursor:crosshair;
+}
+
+table, tr, td
+{
+    border: 2px solid black;
+    border-collapse: collapse;   
+}
+
+table
+{
+    margin: auto;
+    background-color: #ffcccc;
+}
+
+p
+{
+    padding: 18px;
+    margin: auto;
+    text-align: center;
+    color: black;
+}
+
+td:hover 
+{
+    background-color: #ff6666;
+}

@@ -5,6 +5,6 @@
     <img src="/img/screen.PNG" height="fill" width="fill" align="center">
   </td>
   <td>
-    Realizzazione del Tris in Javascript
+    Realization of the Tris game in Javascript.
   </td>
 </table>
